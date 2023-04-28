@@ -1,0 +1,27 @@
+.header {
+    width:500px;
+    margin: 0 auto;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.art1 img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 250px;
+    width: 700px;
+}
+
+.art1 h2{
+    padding-top: 50px;
+    text-align: center;
+    font-family: Arial;
+}
+
+.art1 p {
+    width: 500px;
+    margin: 0 auto;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
