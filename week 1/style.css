@@ -26,7 +26,7 @@ body {
 }
 
 .art1 p {
-    width: 500px;
+    width: 600px;
     margin: 0 auto;
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
@@ -40,7 +40,7 @@ body {
     margin-right: auto;
     height: 250px;
     width: 500px;
-
+    padding-bottom: 10px;
 }
 
 .art2 h2{
@@ -50,7 +50,7 @@ body {
 }
 
 .art2 p {
-    width: 500px;
+    width: 600px;
     margin: 0 auto;
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
@@ -64,6 +64,7 @@ body {
     margin-right: auto;
     height: 250px;
     width: 600px;
+    padding-bottom: 10px;
 
 }
 
@@ -74,7 +75,7 @@ body {
 }
 
 .art3 p {
-    width: 500px;
+    width: 600px;
     margin: 0 auto;
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
@@ -85,4 +86,6 @@ body {
 .ftr {
     margin-top: 50px;
     text-align: center;
+    color: blueviolet;
+
 }
