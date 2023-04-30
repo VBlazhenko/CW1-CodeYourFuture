@@ -1,0 +1,73 @@
+.navmenu ul{
+    float: right;
+}
+
+.navmenu a{
+    display: inline;
+    color: black;
+    text-align: center;
+    padding: 14px 15px;
+    text-decoration: none;
+}
+
+.navmenu p{
+    display: inline;
+}
+
+.navmenu a:hover {
+    color: orange;
+  }
+
+
+.logo img{
+    width: 100px;
+    height: 40px;
+    float: left;
+    margin-left: 100px;
+}
+
+.background-pic img{
+    width: 1240px;
+    height: auto;
+}
+
+.background-pic button{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    background-color: orange;
+    color: white;
+    font-size: 16px;
+    padding: 12px 24px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    text-align: center;
+
+}
+
+.background-pic h1{
+    padding-bottom: 270px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-family: Helvetica;
+}
+
+.background-pic h2{
+    padding-bottom: 150px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-family:  "Lucida Console", "Courier New", monospace;
+}
+
+.background-pic .btn:hover {
+    background-color: yellow;
+}
