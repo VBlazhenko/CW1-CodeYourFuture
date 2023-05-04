@@ -1,43 +1,67 @@
-.navmenu ul{
-    float: right;
+
+
+* {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    
 }
 
-.navmenu a{
-    display: inline;
-    color: black;
-    text-align: center;
-    padding: 14px 15px;
+.container {
+    width: 100%;
+    min-height: 100vh;
+    padding-right: 8%;
+    box-sizing: border-box;
+    overflow: hidden;
+}
+
+.navbar {
+    width: 100%;
+    display: flex;
+    align-items: center;
+}
+
+.logo {
+    width: 40px;
+    cursor: pointer;
+    margin: 20px;
+    padding-left: 70px ;
+}
+
+nav {
+    flex: 1;
+    text-align: right;
+}
+
+nav ul li{
+    list-style: none;
+    display: inline-block;
+    margin-right: 30px;
+}
+
+nav ul li a{
     text-decoration: none;
+    color: black;
+    font-size: 14px;
 }
 
-.navmenu p{
-    display: inline;
-}
-
-.navmenu a:hover {
+nav ul li a:hover {
     color: orange;
-  }
-
-
-.logo img{
-    width: 100px;
-    height: 40px;
-    float: left;
-    margin-left: 100px;
 }
 
-.background-pic img{
-    width: 1240px;
-    height: auto;
+.background-picture img{
+    width: 1600px;
+    height: 750px;
+    background-size: cover;
 }
 
-.background-pic button{
+.background-picture button{
     position: absolute;
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
     -ms-transform: translate(-50%, -50%);
-    background-color: orange;
+    background-color: #FF8C00;
     color: white;
     font-size: 16px;
     padding: 12px 24px;
@@ -47,7 +71,7 @@
     text-align: center;
 }
 
-.background-pic h1{
+.background-picture h1{
     padding-bottom: 270px;
     position: absolute;
     top: 50%;
@@ -57,7 +81,7 @@
     font-family: Helvetica;
 }
 
-.background-pic h2{
+.background-picture h2{
     padding-bottom: 150px;
     position: absolute;
     top: 50%;
@@ -67,6 +91,6 @@
     font-family:  "Lucida Console", "Courier New", monospace;
 }
 
-.background-pic .btn:hover {
-    background-color: yellow;
+.background-picture .btn:hover {
+    background-color: orange;
 }
