@@ -98,23 +98,46 @@ nav ul li a:hover {
     font-size: 20px;
     text-align: center;
     margin-top: 100px;
-    margin-bottom: 16px;
+    margin-bottom: 20px;
 }
 
 .images img {
     width: 200px;
     height: 200px;
     padding: 30px;
+    padding-bottom: 100px;
 }
 
 .image1 {
     float: left;
+    margin-left: 350px;
 }
 
-.image2 img{
-    text-align: center;
-}
-
-.image3 {
+.image2 {
     float: right;
+    margin-right: 350px;
+}
+
+.text p{
+    font-size: 20px;
+    clear: both;
+    
+}
+
+.txt1{
+    margin-left: 100px;
+}
+
+.txt2 {
+    margin-left: 900px;
+}
+
+hr {
+    width: 80%;  
+    height: 1px;  
+    background-color: black;  
+    margin-bottom: 7px;  
+    margin-right: auto;  
+    margin-left: auto;  
+    margin-top: 9px;  
 }
