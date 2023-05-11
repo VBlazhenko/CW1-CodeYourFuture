@@ -8,11 +8,14 @@
 
 1) Creating my own webpage
 https://github.com/CodeYourFuture/HTML-CSS-Coursework-Week1
+<br>
 created - can be viewed in this repository or in another called called "personal portfolio"
 
 2) Starting the module
 https://github.com/CodeYourFuture/HTML-CSS-Module-Project
+<br>
 complated level 1 task
+<br>
 level 2 - working on
 
 3) CSS Grid
