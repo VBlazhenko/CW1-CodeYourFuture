@@ -14,7 +14,7 @@ created - can be viewed in this repository or in another called called "personal
 2) Starting the module
 https://github.com/CodeYourFuture/HTML-CSS-Module-Project
 <br>
-complated level 1 task
+completed level 1 task
 <br>
 level 2 - working on
 
