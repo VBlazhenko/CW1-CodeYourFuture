@@ -125,8 +125,9 @@ nav ul li a:hover {
 
 
 .col1 {
-    position: absolute;
-
+    position: relative;
+    width: auto;
+    height: auto;
 }
 
 
@@ -161,7 +162,6 @@ nav ul li a:hover {
 
 .text-1 {
     font-size: 24px;
-    background-color: #FF8C00;
 }
 
 .text-2 {
@@ -170,4 +170,32 @@ nav ul li a:hover {
 
 .text-3 {
     font-size: 24px;
+}
+
+.icon1 {
+    height: 80px;
+    width: 80px;
+}
+
+.icon2 {
+    height: 80px;
+    width: 80px;
+}
+
+.icon3 {
+    height: 80px;
+    width: 80px;
+}
+
+.ftr-txt{
+    text-align: center;
+    background-color: #FF8C00;
+    font-family: arial;
+    font-size: 18px;
+
+}
+
+.ftr-cpy {
+    background-color: bisque;
+    font-size: 12px;
 }

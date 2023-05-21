@@ -39,10 +39,48 @@ nav ul li a:hover {
     color: orange;
 }
 
-.row div {
-    padding: 1rem;
-    background-color: bisque;
-    border: 2px solid #ff3;
-    color: black;
+
+.container-main {
+    display: grid;
+    grid-template-columns: 1fr 1fr ;
+    grid-template-rows: 50px 50px;
+    grid-gap: 5px;
     text-align: center;
+}
+
+.container-main img {
+    width: 100%;
+    height: auto;
+}
+
+.container-main h1 {
+    color: darkgoldenrod;
+    padding-top: 100px;
+    padding-bottom: 50px;
+}
+
+.form div {
+    display: inline-block;
+    padding-bottom: 10px;
+}
+
+.form label {
+    display: block;
+}
+
+.form-postcode div{
+    display: inline-block;
+    padding-bottom: 10px;
+}
+
+.form-postcode label{
+    display: block;
+}
+
+.form_address_two label {
+    padding-top: 10px;
+}
+
+.main-form {
+    text-align: left;
 }
