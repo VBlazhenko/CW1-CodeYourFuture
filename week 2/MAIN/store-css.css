@@ -74,6 +74,10 @@ nav ul li a:hover {
     padding-bottom: 10px;
 }
 
+.form-postcode {
+    padding-top: 10px;
+}
+
 .form-address{
     display: block;
 }
@@ -86,7 +90,6 @@ nav ul li a:hover {
     padding-top: 50px;
     padding-right: 280px;
 }
-
 
 .checkbox label{
     padding-top: 50px;
@@ -118,5 +121,6 @@ nav ul li a:hover {
     cursor: pointer;
     border-radius: 5px;
     text-align: center;
-    
+    margin-right: 250px;
 }
+
