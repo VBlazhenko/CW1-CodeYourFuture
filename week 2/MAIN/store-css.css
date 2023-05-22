@@ -66,6 +66,7 @@ nav ul li a:hover {
 
 .form label {
     display: block;
+    padding-right: 110px;
 }
 
 .form-postcode div{
@@ -73,7 +74,7 @@ nav ul li a:hover {
     padding-bottom: 10px;
 }
 
-.form-postcode label{
+.form-address{
     display: block;
 }
 
@@ -83,16 +84,39 @@ nav ul li a:hover {
 
 .circle h6{
     padding-top: 50px;
-    padding-right: 160px;
+    padding-right: 280px;
 }
 
-.circle input {
-    margin-right: 20px;
-}
 
 .checkbox label{
     padding-top: 50px;
     padding-bottom: 50px;
 }
 
+.form-address input{
+    padding-right: 200px;
+}
 
+.form-address label {
+    padding-right: 330px;
+}
+
+.form_address_two input{
+    padding-right: 200px;
+}
+
+.form_address_two label {
+    padding-right: 330px;
+}
+
+.button-store button{
+    background-color: #FF8C00;
+    color: white;
+    font-size: 16px;
+    padding: 12px 24px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    text-align: center;
+    
+}
