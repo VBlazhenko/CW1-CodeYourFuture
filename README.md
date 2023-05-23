@@ -7,12 +7,12 @@
 
 
 1) Creating my own webpage
-https://github.com/CodeYourFuture/HTML-CSS-Coursework-Week1
+https://github.com/CodeYourFuture/HTML-CSS-Coursework-Week1 (done)
 <br>
 created - can be viewed in this repository or in another called called "personal portfolio"
 
 2) Starting the module
-https://github.com/CodeYourFuture/HTML-CSS-Module-Project
+https://github.com/CodeYourFuture/HTML-CSS-Module-Project (done)
 <br>
 completed level 1 task
 <br>
