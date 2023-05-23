@@ -14,11 +14,11 @@ created - can be viewed in this repository or in another called called "personal
 2) Starting the module
 https://github.com/CodeYourFuture/HTML-CSS-Module-Project (done)
 <br>
-completed level 1 task
+completed level 1 task (done)
 <br>
-level 2 - working on
+level 2 (done)
 
-3) CSS Grid
+3) CSS Grid (IN PROGRESS)
 https://scrimba.com/learn/cssgrid
 Register : https://scrimba.com/dashboard?tab=enrolled
 
